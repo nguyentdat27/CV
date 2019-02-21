@@ -95,6 +95,7 @@ img.avatar{
 p.td {
     font-weight: bold;
     font-size: 41px;
+    text-shadow: 5px 5px 10px darkslategrey;
     margin-top: 36px;
     margin-left: 140px;
     padding-top: 4px;
